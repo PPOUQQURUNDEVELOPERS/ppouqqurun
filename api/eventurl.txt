@@ -1,1 +1,1 @@
-webbrowser:www.naver.com
+view:2
